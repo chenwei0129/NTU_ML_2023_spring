@@ -1,4 +1,4 @@
-# NTU ML 2023 spring
+# Hung-Yi Lee's ML 
 
 * HW1:&emsp;**Regression**
 * HW2:&emsp;**Classification**
