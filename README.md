@@ -1,4 +1,4 @@
-# Hung-Yi Lee's ML 
+# Hung-Yi Lee's ML course
 
 * HW1:&emsp;**Regression**
 * HW2:&emsp;**Classification**
