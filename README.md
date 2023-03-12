@@ -1,6 +1,8 @@
 # Hung-Yi Lee's ML course
 
 * HW1:&emsp;**Regression**
+  * public  score : 0.80071
+  * private score : 0.85357
 * HW2:&emsp;**Classification**
 * HW3:&emsp;**CNN**
 * HW4:&emsp;**Self-attention**
