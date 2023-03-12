@@ -1,8 +1,8 @@
 # Hung-Yi Lee's ML course
 
 * HW1:**Regression**
-  * public  score : 0.80071
-  * private score : 0.85357
+  * public  score : 0.80071(boss baseline)
+  * private score : 0.85357(strong base)
 * HW2:**Classification**
 * HW3:**CNN**
 * HW4:**Self-attention**
