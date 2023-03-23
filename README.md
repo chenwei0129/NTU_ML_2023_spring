@@ -4,7 +4,7 @@
   * public  score : 0.80071(boss baseline)
   * private score : 0.85357(strong base)
 * **HW2:** ***Classification***
-  * public  score : 
+  * public  score : 0.84661(boss baseline) 
   * private score : 
 * **HW3:** ***CNN***
   * public  score : 
