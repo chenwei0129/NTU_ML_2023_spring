@@ -7,7 +7,7 @@
   * public  score : 0.84661(boss baseline) 
   * private score : 
 * **HW3:** ***CNN***
-  * public  score : 
+  * public  score : 0.91066(boss baseline) 
   * private score : 
 * **HW4:** ***Self-attention***
   * public  score : 
