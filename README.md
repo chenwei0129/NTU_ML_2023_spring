@@ -10,7 +10,7 @@
   * public  score : 0.91066(boss baseline) 
   * private score : 
 * **HW4:** ***Self-attention***
-  * public  score : 
+  * public  score : 0.96250(boss baseline)
   * private score : 
 * **HW5:** ***Transformer***
   * public  score : 
