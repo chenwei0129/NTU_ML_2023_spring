@@ -13,7 +13,7 @@
   * public  score : 0.96250(boss baseline)
   * private score : 0.96425(boss baseline)
 * **HW5:** ***Transformer***
-  * public  score : 
+  * public  score : 31.43(boss baseline)
   * private score : 
 * **HW6:** ***Generative Model***
   * public  score : 
