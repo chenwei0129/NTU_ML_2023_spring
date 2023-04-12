@@ -16,7 +16,7 @@
   * public  score : 31.43(boss baseline)
   * private score : 
 * **HW6:** ***Generative Model***
-  * public  score : 
+  * public  score : AFD:0.822、FID:6327.66(boss baseline)
   * private score : 
 * **HW7:** ***BERT***
   * public  score : 
