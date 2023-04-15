@@ -14,7 +14,7 @@
   * private score : 0.96425(boss baseline)
 * **HW5:** ***Transformer***
   * public  score : 31.43(boss baseline)
-  * private score : 
+  * private score : 30.87(boss baseline)
 * **HW6:** ***Generative Model***
   * public  score : AFD:0.822、FID:6327.66(boss baseline)
   * private score : 
