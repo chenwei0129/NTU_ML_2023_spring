@@ -2,7 +2,7 @@
 
 * **HW1:** ***Regression***
   * public  score : 0.80071(boss baseline)
-  * private score : 0.85357(strong base)
+  * private score : 0.85357(strong baseline)
 * **HW2:** ***Classification***
   * public  score : 0.84661(boss baseline) 
   * private score : 0.84643(boss baseline)
