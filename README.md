@@ -20,7 +20,7 @@
   * private score : --
 * **HW7:** ***BERT***
   * public  score : 0.84165(boss baseline)
-  * private score : 
+  * private score : 0.84733(boss baseline)
 * **HW8:** ***Auto-encoder***
   * public  score : 
   * private score : 
