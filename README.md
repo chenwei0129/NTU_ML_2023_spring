@@ -25,8 +25,8 @@
   * public  score : 0.82114(boss baseline)
   * private score : 
 * **HW9:** ***Explainable AI***
-  * public  score : 
-  * private score : 
+  * public  score : --
+  * private score : --
 * **HW10:** ***Attack***
   * public  score : 
   * private score : 
