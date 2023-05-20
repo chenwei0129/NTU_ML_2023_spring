@@ -23,7 +23,7 @@
   * private score : 0.84733(boss baseline)
 * **HW8:** ***Auto-encoder***
   * public  score : 0.82114(boss baseline)
-  * private score : 
+  * private score : 0.83022(boss baseline)
 * **HW9:** ***Explainable AI***
   * public  score : --
   * private score : --
