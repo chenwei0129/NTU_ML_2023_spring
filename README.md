@@ -28,7 +28,7 @@
   * public  score : --
   * private score : --
 * **HW10:** ***Attack***
-  * public  score : 
+  * public  score : 0.10(boss baseline)
   * private score : 
 * **HW11:** ***Adaptation***
   * public  score : 
